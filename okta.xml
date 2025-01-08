@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="http://www.okta.com/exkjl16j5b8X4N6fS1d7" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDsDCCApigAwIBAgIGAZRFy9juMA0GCSqGSIb3DQEBCwUAMIGYMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxGTAXBgNVBAMMEGJ1Z2Nyb3dkLXBhbS02ODExHDAaBgkqhkiG
+9w0BCQEWDWluZm9Ab2t0YS5jb20wHhcNMjUwMTA4MTIwMTU0WhcNMzUwMTA4MTIwMjU0WjCBmDEL
+MAkGA1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28x
+DTALBgNVBAoMBE9rdGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMRkwFwYDVQQDDBBidWdjcm93ZC1w
+YW0tNjgxMRwwGgYJKoZIhvcNAQkBFg1pbmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAuOA7I84khwpdPu4Rjz090ofNEN/wpu47qW7mOYkwlrS5OuxDXUYQKzbxd4Pu
+/KJ+Cup1PyTZUxfY5jOeF9iJhxKsjtCrmlzVaLYHp4CEcM6aS83kV07RAS81X1Z/33SmRIDleeT6
+0tmSapWpi9cEMGFuydYJJapw4vU4QDbDMiGAG1WrHe2p6bCtWdZpWzsyDhLqGVeah5Dl2UDLbHWr
+qdA61IgjyLPC4Bhi28w1SrsA18+RZ/+kLAjZbeZlsDtC/s0rYtMPQCMn63XkVdhswUJafmu36NeF
+zM61jNy3SYR9/D9t1PlDPz+gjiyiwRDnme0Nce74Nsa5LG+Uf1DuuQIDAQABMA0GCSqGSIb3DQEB
+CwUAA4IBAQBjzM8YE2DJuYqz4f170TW3WxCDQs/IOjcvHWKdusCZM3uGIQxPsLzhq7Z8fYyjkLGl
+lmIGMhjMHd9uGwOPEkPQW+MniEcb6qF6PwDoVX3RKzUKQ+6GGI2Dfk8LqRllYYsI2TXk+4AnbHuF
+uZxaDU9Q1gnJjr1GsBotXa6dCqvPGrwAMG4pzXGfMV3inU74ZgnfIGfD+EGrsKRdv6VzguLrGLZo
++3gEnybwVbumqoHUwBw5thyW1vMnesoSM4twCjVg1In9lKTZUGn+MpULdX3RU1dotARVettQt/Fv
+XX4hlNc0caz8nVL6S5RSaDDx5Nq+77Ic5gMVNLxfB9e+J1qx</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://bugcrowd-pam-681.oktapreview.com/app/scaleft/exkjl16j5b8X4N6fS1d7/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://bugcrowd-pam-681.oktapreview.com/app/scaleft/exkjl16j5b8X4N6fS1d7/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>
